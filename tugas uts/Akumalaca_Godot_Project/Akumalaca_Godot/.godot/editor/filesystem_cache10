@@ -1,0 +1,16 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794304945
+Enemy.gd::GDScript::790120584006056518::1794304512::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Main.gd::GDScript::2181164014214921345::1794304528::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::-1::1794304512::0::1::::<><><>0<>0<><>::res://Main.gd
+Player.gd::GDScript::4425849064532769470::1794304528::0::1::::<>CharacterBody2D<><>0<>0<><>::
+README.md::TextFile::-1::1794304527::0::1::::<><><>0<>0<><>::
+::res://assets/::1794304662
+akumalaca.jpeg::CompressedTexture2D::6883052585221842104::1794304438::1794304662::1::::<><><>0<>0<>71bd4a43442db9ec8e2ac54c0171ff03<>res://.godot/imported/akumalaca.jpeg-e6858d7eed316f0838f8b14f19bd2f14.ctex::
+gen-gambar-ini-buatkan-model-tampak-depan-samping-dan-.png::CompressedTexture2D::6481448440382158324::1794304438::1794304662::1::::<><><>0<>0<>7e670aac6a9827ec97b3341bf9f9da36<>res://.godot/imported/gen-gambar-ini-buatkan-model-tampak-depan-samping-dan-.png-a5925e09b35ca44c6878b15a4b85b908.ctex::
+jack_o_way.jpeg::CompressedTexture2D::6101303935722905546::1794304438::1794304662::1::::<><><>0<>0<>9447eaa6bf5fb7f89d2818df681b6e25<>res://.godot/imported/jack_o_way.jpeg-30ca2b5a4efcf092a53d604791e72a64.ctex::
+jack_o_way_depan.png::CompressedTexture2D::5900460604489916899::1794304438::1794304662::1::::<><><>0<>0<>eef66771318e0069d3b4755e11f53f71<>res://.godot/imported/jack_o_way_depan.png-fd7b2afe2c8dd3d8b1fb0b45f851fea6.ctex::
+monoseeds.jpeg::CompressedTexture2D::6113153910589189619::1794304438::1794304662::1::::<><><>0<>0<>a67a4a2e7d9967048e7a0ba45dfb5189<>res://.godot/imported/monoseeds.jpeg-81394078df84fd425d05541f4e1ddfc0.ctex::
+monoseeds_transparent-removebg-preview.png::CompressedTexture2D::8421963201437234770::1794304438::1794304662::1::::<><><>0<>0<>3a4e6e90131f52680bd198063f70b887<>res://.godot/imported/monoseeds_transparent-removebg-preview.png-883e447374d9bd6878bb29cac01c6b11.ctex::
+monoseeds_transparent.png::CompressedTexture2D::4300100644882978679::1794304438::1794304662::1::::<><><>0<>0<>572e7823e527bcee2efe293eeddfcc88<>res://.godot/imported/monoseeds_transparent.png-b75bcc64df699aeb3def7cf625d06698.ctex::
+tposed_jack_o'_wie.png::CompressedTexture2D::5676148838080558990::1794304438::1794304662::1::::<><><>0<>0<>04e15e694d6ad25df4f3e16846e04475<>res://.godot/imported/tposed_jack_o'_wie.png-c5ece55320490ff537ed6de652ce8898.ctex::
